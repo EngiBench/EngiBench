@@ -1,0 +1,29 @@
+{
+    "api_keys": {
+        "gemini": "YOUR_GEMINI_API_KEY",
+        "openai": "YOUR_OPENAI_API_KEY",
+        "anthropic": "YOUR_ANTHROPIC_API_KEY",
+        "deepseek": "YOUR_DEEPSEEK_API_KEY",
+        "qwen": "YOUR_QWEN_API_KEY",
+        "llama": "YOUR_LLAMA_API_KEY",
+        "glm": "YOUR_GLM_API_KEY"
+    },
+    "models": {
+        "gpt-4.1": "gpt-4.1",
+        "claude-3.7-sonnet": "claude-3-7-sonnet",
+        "gpt-4.1-mini": "gpt-4.1-mini",
+        "deepseek-v3": "deepseek-v3",
+        "gemini-2.5-flash": "gemini-2.5-flash",
+        "gemini-2.0-flash": "gemini-2.0-flash",
+        "gpt-4.1-nano": "gpt-4.1-nano",
+        "glm-4-32b": "glm-4-32b",
+        "glm-4-9b": "glm-4-9b",
+        "claude-3.5-sonnet": "claude-3-5-sonnet",
+        "llama-3.3": "llama-3-3",
+        "qwen-2.5-72b": "qwen-2.5-72b",
+        "qwen-2.5-7b": "qwen-2.5-7b",
+        "llama-4": "llama-4",
+        "deepseek-r1-7b": "deepseek-r1-7b",
+        "mixtral-8x7b": "mixtral-8x7b"
+    }
+}
