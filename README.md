@@ -37,8 +37,3 @@
   * Rubric-based scoring for Level 3
   * Human expert comparisons included
 
-## 📊 Results at a Glance
-
-* LLMs perform well on structured tasks but **struggle with open-ended problems**.
-* Smaller models show **greater sensitivity** to problem formulation.
-* Model performance varies significantly across capabilities and input formats.
